@@ -184,4 +184,4 @@ Igbo is one of Nigeria's three major languages but remains severely underreprese
 
 ## 📄 License
 
-This project is for educational and research purposes. The base NLLB-200 model is released under the [CC-BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/) by Meta AI.
+This project is for educational and research purposes. The base NLLB-200 model is released under the [CC-BY-NC 4.0 License](https://creativecommons.org/licenses/by-nc/4.0/).
